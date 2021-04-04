@@ -1,5 +1,5 @@
 <h1>Welcome to my profile 😆 </h1>
 
-<p> 📣  Meu nome é Gabriel Augusto, Sou conhecido como Gaguinho.</p>
+<p> 📣 My name is Gabriel Augusto, I am known as Gaguinho. I live in Brazil, </p>
 
 <hr>
