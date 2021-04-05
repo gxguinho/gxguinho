@@ -12,4 +12,7 @@ I live in Brazil. I love technology and games. 🎮
     Database: <PostgreSQL/>
 ## Curso
     Sistema de informação: 2020 - 2024
+    
+## 🧐
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielapl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielapl&show_icons=true&theme=radical)
