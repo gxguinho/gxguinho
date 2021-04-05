@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil 😆 
 
      📣 Meu nome é Gabriel Augusto, Sou conhecido como Gaguinho.  
-    Moro no Brasil. Amo tecnologia e jogos.🎮 
+    Amo tecnologia e jogos, Comecei a programar em 2020. 🎮 
 
 [![Twitter Badge](https://img.shields.io/badge/-@gxguinho-4c2882?style=flat-square&labelColor=4c2882&logo=twitter&logoColor=white&link=https://twitter.com/Gxguinho)](https://twitter.com/Gxguinho)
 
