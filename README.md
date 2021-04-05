@@ -1,4 +1,4 @@
-## Welcome to my profile 😆 
+## Bem-vindo ao meu perfil 😆 
 
      📣 Meu nome é Gabriel Augusto, Sou conhecido como Gaguinho.  
     Moro no Brasil. Amo tecnologia e jogos.🎮 
