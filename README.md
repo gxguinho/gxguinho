@@ -7,7 +7,7 @@
 
 
 ## 🚀 Tecnologias
-    BackEnd: <Node.js/>
+    BackEnd: <typeScript/>
     FrontEnd: <React-Native/>
     Database: <PostgreSQL/>
 ## 📚 Curso
