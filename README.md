@@ -9,7 +9,7 @@
 ## 🚀 Tecnologias
     BackEnd: <Node.js/>
     FrontEnd: <React-Native/>
-    Database: <PostgreSQL/>
+   
 ## 📚 Curso
     Sistema de informação: 2020 - 2023
     
