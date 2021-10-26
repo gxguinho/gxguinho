@@ -18,5 +18,5 @@
 <a href="https://github.com/gabrielapl">
 </a>
      <a href="https://github.com/gabrielapl">
-     <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=gxguinho&layout=compact&theme=tokyonight" alt="gabriel" />
+     <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@gxguinho&layout=compact&theme=tokyonight" alt="gabriel" />
 </a>
