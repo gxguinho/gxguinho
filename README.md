@@ -3,10 +3,10 @@
 
 Sou Gabriel Desenvolvedor Jr, Sempre em Busca de Desafios e Evolução.
 
-- Desenvolvedor Web, Mobile e BackEnd.
-- Atuamente trabalho na Gow, Empresa Software.
-- Meu Portfolio: ---
-- Email de contato: gabrielapl@unipam.edu.br
+- 💻 Desenvolvedor Web, Mobile e BackEnd.
+- 🔥 Atuamente trabalho na Gow, Empresa Software.
+- 🚀 Meu Portfolio: ---
+- 👻 Email de contato: gabrielapl@unipam.edu.br
 <br></br>
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
