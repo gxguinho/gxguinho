@@ -1,3 +1,4 @@
+<img align="right" height="590" src="https://user-images.githubusercontent.com/80070421/145925118-42c21769-a179-49d5-97b2-68cdc9fed6e3.gif" />
 
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
@@ -41,3 +42,4 @@ Sou Gabriel Desenvolvedor Jr, Sempre em Busca de Desafios e Evolução.
 </a>
   
 </p>
+
