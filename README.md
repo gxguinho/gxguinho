@@ -25,6 +25,7 @@ Sou Gabriel Desenvolvedor Jr, Sempre em Busca de Desafios e Evolução.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <br></br>
+<br></br>
 ## ⚙️ &nbsp;GitHub
 
 <p align="left">
