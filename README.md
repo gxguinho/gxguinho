@@ -43,4 +43,4 @@ Sou Gabriel Desenvolvedor Jr, Sempre em Busca de Desafios e Evolução.
 </a>
   
 </p>
-![giphy](https://user-images.githubusercontent.com/80070421/147801435-16f97c00-1663-4eff-8282-258c3467a88c.gif)
+<img height="590" src="https://user-images.githubusercontent.com/80070421/147801435-16f97c00-1663-4eff-8282-258c3467a88c.gif" />
