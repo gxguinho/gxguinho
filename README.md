@@ -2,7 +2,7 @@
 
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-Sou Gabriel Desenvolvedor Plano, Sempre em Busca de Desafios e Evolução.
+Sou Gabriel Desenvolvedor Pleno, Sempre em Busca de Desafios e Evolução.
 
 - 💻 Desenvolvedor Web, Mobile e BackEnd.
 - 🔥 Atuamente trabalho na Gow, Empresa Software.
