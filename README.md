@@ -37,10 +37,4 @@ Sou Gabriel Desenvolvedor Pleno, Sempre em Busca de Desafios e Evolução.
 <br></br>
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/gabriel-augusto-aaa17b1b1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="codepen"/>
-</a>
-  
-</p>
-<img height="590" src="https://user-images.githubusercontent.com/80070421/147801435-16f97c00-1663-4eff-8282-258c3467a88c.gif" />
+
