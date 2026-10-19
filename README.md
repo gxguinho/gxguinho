@@ -7,7 +7,7 @@ Sou Gabriel Desenvolvedor Pleno, Sempre em Busca de Desafios e Evolução.
 - 💻 Desenvolvedor Web, Mobile e BackEnd.
 - 🔥 Atuamente trabalho na Gow, Empresa Software.
 - 🚀 Meu Portfolio: ---
-- 👻 Email de contato: gabrielapl@unipam.edu.br
+- 👻 Email de contato: 
 <br></br>
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -29,8 +29,8 @@ Sou Gabriel Desenvolvedor Pleno, Sempre em Busca de Desafios e Evolução.
 ## ⚙️ &nbsp;GitHub
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gabrielapl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="gabriel stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielapl&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="gabriel most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gxguinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="gabriel stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxguinho&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="gabriel most languages"/>
 <img width="530em"src="https://github-readme-stats.vercel.app/api/wakatime?username=gxguinho&layout=compact&theme=tokyonight" alt="gabriel" />
 </p>
 
